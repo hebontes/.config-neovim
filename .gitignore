@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 gh
 iterm*
+=======
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+>>>>>>> 2a1ca35 (keymaps and colorscheme)
